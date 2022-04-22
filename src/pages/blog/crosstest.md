@@ -1,5 +1,9 @@
-# Flat style without frontmatter
+---
+templateKey: 'blog-post'
+title: 'Title: Flat style within frontmatter'
+---
 
-22th April.
+# Title: Flat style without frontmatter
+22nd Apri.
 
 Gatsby, Ajay.
