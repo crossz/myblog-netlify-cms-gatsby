@@ -8,8 +8,8 @@ sections:
   path: src/pages
   label: pages
   create: all
-  match: "*/*"
-  exclude: "./blog"
+  match: "**/*"
+  exclude: src/pages/blog/*
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
