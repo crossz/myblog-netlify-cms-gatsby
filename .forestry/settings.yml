@@ -9,7 +9,7 @@ sections:
   label: pages
   create: all
   match: "**/*"
-  exclude: src/pages/blog/*
+  exclude: blog/*
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
